@@ -14,3 +14,4 @@ To see this in action, go to https://phpmyadmin-heroku.herokuapp.com.
 `config.inc.php` is configured to bypass login and give complete access.
 Please be friendly.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
